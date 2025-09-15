@@ -167,8 +167,15 @@ excel_mock_interviewer/
 <img width="1300" height="743" alt="Screenshot 2025-09-15 231632" src="https://github.com/user-attachments/assets/f3a9c63b-2682-4fa3-ac5c-13667235abfc" />
 
 
+## Key Takeaways
 
+Structured, role-specific Excel interviews automated.
 
+AI scoring combined with data-driven analytics.
+
+Self-learning question bank solving cold start problem.
+
+Real-time session handling and timer support using modern Streamlit methods.
 
 
 
