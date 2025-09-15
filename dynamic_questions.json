@@ -1,0 +1,210 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "What Excel function would you use to sum values in range A1:A10?",
+            "type": "formula",
+            "category": "basic_formulas",
+            "difficulty": "basic",
+            "keywords": [
+                "SUM",
+                "formula",
+                "range"
+            ],
+            "target_roles": [
+                "finance",
+                "operations",
+                "data_analytics"
+            ],
+            "usage_count": 2,
+            "avg_score": 20.0,
+            "success_rate": 0.0,
+            "effectiveness_score": 0.5,
+            "created_date": "2025-09-15T07:00:00",
+            "performance_history": [
+                {
+                    "score": 20,
+                    "timestamp": "2025-09-15T20:14:41.442443",
+                    "outcome": null
+                },
+                {
+                    "score": 20,
+                    "timestamp": "2025-09-15T21:00:40.932811",
+                    "outcome": null
+                }
+            ],
+            "generated": false
+        },
+        {
+            "id": 2,
+            "question": "How would you remove duplicate values from a dataset in Excel?",
+            "type": "concept",
+            "category": "data_manipulation",
+            "difficulty": "intermediate",
+            "keywords": [
+                "remove duplicates",
+                "data",
+                "filter",
+                "unique"
+            ],
+            "target_roles": [
+                "data_analytics",
+                "operations"
+            ],
+            "usage_count": 0,
+            "avg_score": 0.0,
+            "success_rate": 0.0,
+            "effectiveness_score": 0.5,
+            "created_date": "2025-09-15T07:00:00",
+            "performance_history": [],
+            "generated": false
+        },
+        {
+            "id": 3,
+            "question": "Explain the difference between VLOOKUP and INDEX-MATCH functions.",
+            "type": "concept",
+            "category": "lookup_functions",
+            "difficulty": "advanced",
+            "keywords": [
+                "VLOOKUP",
+                "INDEX",
+                "MATCH",
+                "lookup"
+            ],
+            "target_roles": [
+                "finance",
+                "data_analytics"
+            ],
+            "usage_count": 2,
+            "avg_score": 20.0,
+            "success_rate": 0.0,
+            "effectiveness_score": 0.5,
+            "created_date": "2025-09-15T07:00:00",
+            "performance_history": [
+                {
+                    "score": 20,
+                    "timestamp": "2025-09-15T20:14:42.643412",
+                    "outcome": null
+                },
+                {
+                    "score": 20,
+                    "timestamp": "2025-09-15T21:00:41.287058",
+                    "outcome": null
+                }
+            ],
+            "generated": false
+        },
+        {
+            "id": 4,
+            "question": "How would you create a pivot table to analyze sales data by region and product?",
+            "type": "concept",
+            "category": "data_analysis",
+            "difficulty": "intermediate",
+            "keywords": [
+                "pivot table",
+                "sales data",
+                "analysis",
+                "region"
+            ],
+            "target_roles": [
+                "finance",
+                "operations",
+                "data_analytics"
+            ],
+            "usage_count": 2,
+            "avg_score": 20.0,
+            "success_rate": 0.0,
+            "effectiveness_score": 0.5,
+            "created_date": "2025-09-15T07:00:00",
+            "performance_history": [
+                {
+                    "score": 20,
+                    "timestamp": "2025-09-15T20:14:43.201563",
+                    "outcome": null
+                },
+                {
+                    "score": 20,
+                    "timestamp": "2025-09-15T21:00:42.577920",
+                    "outcome": null
+                }
+            ],
+            "generated": false
+        },
+        {
+            "id": 5,
+            "question": "What's the difference between absolute and relative cell references? Give examples.",
+            "type": "concept",
+            "category": "basic_formulas",
+            "difficulty": "basic",
+            "keywords": [
+                "absolute",
+                "relative",
+                "cell reference",
+                "$"
+            ],
+            "target_roles": [
+                "finance",
+                "operations",
+                "data_analytics"
+            ],
+            "usage_count": 2,
+            "avg_score": 20.0,
+            "success_rate": 0.0,
+            "effectiveness_score": 0.5,
+            "created_date": "2025-09-15T07:00:00",
+            "performance_history": [
+                {
+                    "score": 20,
+                    "timestamp": "2025-09-15T20:14:44.308190",
+                    "outcome": null
+                },
+                {
+                    "score": 20,
+                    "timestamp": "2025-09-15T21:00:43.569017",
+                    "outcome": null
+                }
+            ],
+            "generated": false
+        },
+        {
+            "id": 6,
+            "question": "How would you use SUMIF to calculate total sales for a specific product?",
+            "type": "formula",
+            "category": "advanced_formulas",
+            "difficulty": "intermediate",
+            "keywords": [
+                "SUMIF",
+                "conditional",
+                "criteria",
+                "sales"
+            ],
+            "target_roles": [
+                "finance",
+                "operations"
+            ],
+            "usage_count": 2,
+            "avg_score": 20.0,
+            "success_rate": 0.0,
+            "effectiveness_score": 0.5,
+            "created_date": "2025-09-15T07:00:00",
+            "performance_history": [
+                {
+                    "score": 20,
+                    "timestamp": "2025-09-15T20:14:44.973241",
+                    "outcome": null
+                },
+                {
+                    "score": 20,
+                    "timestamp": "2025-09-15T21:00:44.888675",
+                    "outcome": null
+                }
+            ],
+            "generated": false
+        }
+    ],
+    "metadata": {
+        "total_interviews": 0,
+        "last_updated": "2025-09-15T07:00:00",
+        "version": "1.0"
+    }
+}
