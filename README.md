@@ -172,6 +172,13 @@ excel_mock_interviewer/
 <img width="1559" height="879" alt="Screenshot 2025-09-15 231606" src="https://github.com/user-attachments/assets/51b3abec-92cc-4583-ad05-3b1a235a316d" />
 <img width="1300" height="743" alt="Screenshot 2025-09-15 231632" src="https://github.com/user-attachments/assets/f3a9c63b-2682-4fa3-ac5c-13667235abfc" />
 
+### Video Sample of working model:
+
+
+https://github.com/user-attachments/assets/ca7ef3fd-5331-47a4-b741-15b12d4e519f
+
+
+
 
 ## Key Takeaways
 
