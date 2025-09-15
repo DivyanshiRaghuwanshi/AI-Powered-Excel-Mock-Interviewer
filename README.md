@@ -138,11 +138,17 @@ GEMENI_API_KEY=<your_api_key>
 ## 📂 Project Structure
 excel_mock_interviewer/
 ├─ app.py                 # Streamlit app with interview flow
+
 ├─ question_bank_agent.py # Templates, role/difficulty logic
+
 ├─ questions_store.py     # Storage, analytics, performance tracking
+
 ├─ feedback_generator.py  # LLM-based answer evaluation
+
 ├─ dynamic_questions.json # Seed questions and storage
+
 ├─ requirements.txt
+
 └─ README.md
 
 ##  Future Enhancements
